@@ -1,4 +1,3 @@
-from xml.dom.minidom import Element
 from flask import Flask,request,redirect
 import requests
 
